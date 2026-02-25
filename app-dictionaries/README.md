@@ -28,12 +28,28 @@ uv run tools/sdef_to_md.py --path /path/to/app.sdef --out output.md
 
 ## Coverage
 
-| App | File | Suites | Commands | Classes | macOS |
-|-----|------|--------|----------|---------|-------|
-| Finder | `finder.md` | 9 | 25 | 32 | 15.x |
-| Mail | `mail.md` | 4 | 16 | 27 | 15.x |
-| Calendar | `calendar.md` | 2 | 8 | 7 | 15.x |
-| Safari | `safari.md` | 1 | 10 | 3 | 15.x |
-| Notes | `notes.md` | 1 | 2 | 4 | 15.x |
+| App | File | macOS |
+|-----|------|-------|
+| Bluetooth File Exchange | `bluetooth-file-exchange.md` | 15.x |
+| Calendar | `calendar.md` | 15.x |
+| Console | `console.md` | 15.x |
+| Contacts | `contacts.md` | 15.x |
+| Finder | `finder.md` | 15.x |
+| Keynote | `keynote.md` | 15.x |
+| Mail | `mail.md` | 15.x |
+| Messages | `messages.md` | 15.x |
+| Music | `music.md` | 15.x |
+| Notes | `notes.md` | 15.x |
+| Pages | `pages.md` | 15.x |
+| Photos | `photos.md` | 15.x |
+| QuickTime Player | `quicktime-player.md` | 15.x |
+| Reminders | `reminders.md` | 15.x |
+| Safari | `safari.md` | 15.x |
+| Screen Sharing | `screen-sharing.md` | 15.x |
+| Shortcuts | `shortcuts.md` | 15.x |
+| System Events | `system-events.md` | 15.x |
+| System Settings | `system-settings.md` | 15.x |
+| Terminal | `terminal.md` | 15.x |
+| TV | `tv.md` | 15.x |
 
 To add a new app: run the generator and open a PR with the resulting `.md` file.
