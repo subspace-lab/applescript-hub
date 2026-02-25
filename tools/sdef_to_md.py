@@ -12,6 +12,10 @@ Usage:
     uv run tools/sdef_to_md.py --path /path/to/custom.sdef --out output.md
 
 The SDEF is read directly from the app bundle — never committed to the repo.
+For reference, SDEFs live at e.g.:
+    /System/Library/CoreServices/Finder.app/Contents/Resources/Finder.sdef
+    /System/Applications/Mail.app/Contents/Resources/Mail.sdef
+Find any app's SDEF with: find /Applications/AppName.app -name "*.sdef"
 """
 
 import argparse
