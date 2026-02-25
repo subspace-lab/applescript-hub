@@ -1,3 +1,5 @@
 .DS_Store
 *.scpt
 temp/
+# Never commit raw SDEF files (Apple copyright)
+*.sdef
