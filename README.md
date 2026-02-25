@@ -26,6 +26,8 @@ applescript-hub/
 ├── guides/                 # How-to guides
 ├── resources/              # Curated links to official and reputable sources
 ├── app-dictionaries/       # Extracted app dictionary documentation (SDEF)
+├── changelogs/             # Dictionary diffs between macOS versions
+├── tools/                  # Scripts for generating and comparing dictionaries
 └── verification/           # Notes and scripts for verifying snippet correctness
 ```
 
@@ -74,12 +76,26 @@ Scripts in this repo are marked with their verification status. The `verificatio
 | `verified: no` | Untested or known broken |
 | `verified: partial` | Works on specific macOS versions |
 
+## Tools
+
+**Extract all scriptable app dictionaries on your Mac:**
+```bash
+uv run tools/extract_all.py
+```
+
+**Generate a single app dictionary:**
+```bash
+uv run tools/sdef_to_md.py "Finder" --out app-dictionaries/finder.md
+```
+
+**Compare dictionaries across macOS versions:**
+```bash
+uv run tools/diff_versions.py old-dicts/ new-dicts/ -o changelogs/14-to-15.md
+```
+
 ## Contributing
 
-1. Add a snippet following the metadata header format
-2. Test it with `osascript your_script.applescript`
-3. Mark verification status honestly
-4. Submit a PR
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting dictionaries, snippets, and version changelogs.
 
 ## Resources
 
