@@ -1,7 +1,7 @@
 # Terminal AppleScript Dictionary
 
 > Auto-generated from `Terminal.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Terminal"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Terminal"`
 
 ## Table of Contents
 

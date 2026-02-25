@@ -1,7 +1,7 @@
 # Contacts AppleScript Dictionary
 
 > Auto-generated from `Contacts.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Contacts"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Contacts"`
 
 ## Table of Contents
 

@@ -1,7 +1,7 @@
 # Photos AppleScript Dictionary
 
 > Auto-generated from `Photos.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Photos"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Photos"`
 
 ## Table of Contents
 

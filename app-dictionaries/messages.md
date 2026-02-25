@@ -1,7 +1,7 @@
 # Messages AppleScript Dictionary
 
 > Auto-generated from `Messages.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Messages"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Messages"`
 
 ## Table of Contents
 

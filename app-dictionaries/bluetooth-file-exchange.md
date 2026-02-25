@@ -1,7 +1,7 @@
 # Bluetooth file exchange AppleScript Dictionary
 
 > Auto-generated from `Bluetooth File Exchange.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Bluetooth file exchange"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Bluetooth file exchange"`
 
 ## Table of Contents
 

@@ -1,7 +1,7 @@
 # Com.apple.music AppleScript Dictionary
 
 > Auto-generated from `com.apple.Music.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Com.apple.music"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Com.apple.music"`
 
 ## Table of Contents
 

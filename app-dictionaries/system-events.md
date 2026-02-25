@@ -1,7 +1,7 @@
 # Systemevents AppleScript Dictionary
 
 > Auto-generated from `SystemEvents.sdef` inside the app bundle.  
-> Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Systemevents"`
+> macOS 15.6. Do not edit manually — regenerate with `uv run tools/sdef_to_md.py "Systemevents"`
 
 ## Table of Contents
 
