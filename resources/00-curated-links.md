@@ -2,9 +2,32 @@
 
 ## Official Apple Documentation
 
+### AppleScript Language Guide
+Archived but the most complete official reference. Direct chapter links:
+
+| Chapter | URL |
+|---------|-----|
+| Introduction | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html |
+| Lexical Conventions | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_lexical_conventions.html |
+| Fundamentals | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_fundamentals.html |
+| Variables and Properties | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_variables.html |
+| Script Objects | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_script_objects.html |
+| About Handlers | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_about_handlers.html |
+| Class Reference | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_classes.html |
+| Commands Reference | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_cmds.html |
+| Reference Forms | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_reference_forms.html |
+| Operators Reference | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_operators.html |
+| Control Statements | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_control_statements.html |
+| Handler Reference | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_handlers.html |
+| Folder Actions Reference | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_folder_actions.html |
+| Keywords | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_keywords.html |
+| Error Codes | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_error_codes.html |
+| Working with Errors | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/reference/ASLR_error_xmpls.html |
+
+### Other Official Docs
+
 | Resource | URL | Notes |
 |----------|-----|-------|
-| AppleScript Language Guide | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/ | Archived, but still the most complete official reference |
 | AppleScript Overview | https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html | High-level introduction |
 | Technical Note TN2065: do shell script | https://developer.apple.com/library/archive/technotes/tn2065/_index.html | Shell integration patterns |
 | Scripting Interface Guidelines | https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ScriptableCocoaApplications/ | For developers making apps scriptable |

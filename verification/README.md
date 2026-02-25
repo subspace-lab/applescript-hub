@@ -25,7 +25,7 @@ Each snippet carries a `-- verified:` metadata header:
 
 ## CI/CD Integration (Planned)
 
-This repo is designed to integrate with [maccloud](https://github.com/subspace-lab/maccloud) — a macOS CI/CD environment — to automatically run and validate snippets on real Mac hardware.
+The goal is to automatically run and validate snippets on real Mac hardware via CI.
 
 Planned pipeline:
 - Trigger on PR or push to `snippets/`
